@@ -24,10 +24,11 @@ body{
     margin: 5px;
     font-size: 30px;
 }
-
+@media (mAX-width: 768px) {
 .ratings-container{
     display: flex;
     padding: 20px 0;
+}
 }
 
 .rating{
